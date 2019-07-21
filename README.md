@@ -10,3 +10,4 @@ This repository is the code samples from JS30 Challenge from Wes Bos (github use
 - Day 4: Array Cardio Day 1
 - Day 5: Flex Panels Image Gallery
 - Day 6: Array Type Ahead
+- Day 7: Array Cardio Day 2
